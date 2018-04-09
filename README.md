@@ -11,7 +11,7 @@ Simple and lightweight QT Chinese lunar calendar.
 * build & make (qtcreator recommended) 
 
 #### 示例(Sample)
-![示例图](https://raw.githubusercontent.com/SvenAugustus/mccalendar/master/sample/sample.png)
+![示例图](https://raw.githubusercontent.com/SvenAugustus/lunar-ccalendar/master/sample/sample.png)
 
 #### 联系(Contract)
 * Email: SvenAugustus@outlook.com
