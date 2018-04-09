@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>translate/i18_zh_CN.qm</file>
+        <file>translate/i18_zh_CN.ts</file>
+        <file>img/icon-64.png</file>
+        <file>img/icon.png</file>
+    </qresource>
+</RCC>

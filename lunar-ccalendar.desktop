@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=lunar-ccalendar
+Name[zh_CN]=lunar-ccalendar.desktop
+Comment=Chinese lunar calendar
+Comment[zh_CN]=万年历
+Exec=/usr/bin/lunar-ccalendar
+Icon=lunar-ccalendar-64.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility;RasterGraphics;Viewer;
